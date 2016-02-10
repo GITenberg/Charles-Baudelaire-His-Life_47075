@@ -1,0 +1,35 @@
+_repo: Charles-Baudelaire-His-Life_47075
+contributor:
+  translator:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+creator:
+  author:
+    agent_name: Gautier, Théophile
+    aliases:
+    - Gautier, Pierre-Jules-Théophile
+    - Gautier, Theophile
+    - Gaultier, Theophile
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '5450'
+    url: http://www.gutenberg.org/2009/agents/5450
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Théophile_Gautier
+    - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
+description: ''
+gutenberg_issued: '2014-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47075'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Charles Baudelaire, His Life
+url: http://www.gutenberg.org/ebooks/47075
